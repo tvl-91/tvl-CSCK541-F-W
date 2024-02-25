@@ -35,5 +35,5 @@ There are two steps to install and run the program:
  `Eample graph: [[0, 4, inf, 6], [inf, 0, 1, 5], [inf, inf, 0, 2,], [5, inf, inf, 0]]`
 
  # License
- This project is licensed under the MIT License
+ This project is licensed under the MIT License.
  
